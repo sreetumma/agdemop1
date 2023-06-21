@@ -1,16 +1,1 @@
-{
-    "agdemoprj1": {
-        "projectName": "agdemoprj1",
-        "description": "Test",
-        "type": "community",
-        "author": "sreetumma",
-        "version": "0.0.1",
-        "authorWebsite": "https://github.com/sreetumma/agdemop1",
-        "githubUri": "https://github.com/sreetumma/agdemop1",
-        "license": "MIT",
-        "lastUpdated": "1687347962673",
-        "tags": [
-            "authentication"
-        ]
-    }
-}
+{}
